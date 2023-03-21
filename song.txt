@@ -15,3 +15,6 @@ But inside in the dark I'm aching to be free
 
 ----------------
 feature commit ONE!
+
+----------------
+feature commit TWO!
